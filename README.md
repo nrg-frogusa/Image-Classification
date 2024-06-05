@@ -1,7 +1,7 @@
 # Image-Classification
 To create an image classification algorithm, utilizing a neural network, to classify images into separate categories.
 
-#Analysis Steps
+# Analysis Steps
 First, you load your data and examine the contents. 
 Then, you create a function that creates the neural network that will classify images later.
 Then, create a construction function that constructs the neural network using the parameters needed or desired.
